@@ -1,3 +1,4 @@
+![image](https://miro.medium.com/v2/resize:fit:640/format:webp/1*b23WnsljwihmTsErsqHsLw.png)
 # Time Series Regression for Accurate Demand Forecasting: Enhancing Inventory Management at Corporation Favorita
 ## Overview
 Corporation Favorita, a leading retail chain in Latin America, operates a diverse range of stores including supermarkets, hypermarkets, and specialized outlets. To optimize inventory management and maintain profitability, effective forecasting of future product demand is essential. This project aims to develop a machine learning model to predict the optimal quantity of products that should be in stock across various store locations, leveraging historical sales data and advanced forecasting techniques.
